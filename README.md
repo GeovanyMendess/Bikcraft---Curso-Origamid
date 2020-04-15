@@ -1,4 +1,4 @@
-# projeto_curso_origamid_web_design_completo
+# Projeto curso origamid web design completo
 
 Projeto realizado no curso de Web Design Completo no site origamid.com
 
